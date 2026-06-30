@@ -5,7 +5,11 @@ body {
 }
 
 input {
-    width: 100%; /* 100% + 10px + 10px */
+    width: 100%;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    box-sizing: border-box;
+
 }
